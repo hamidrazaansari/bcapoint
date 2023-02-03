@@ -1,0 +1,15 @@
+.searchArea {
+    background: whitesmoke;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    border: 1px solid blueviolet;
+    position: absolute;
+    z-index: 12;
+    width: 25%;
+    right: 0;
+    padding: 12px;
+}
+
+.searchFont {
+    color: black;
+    font-size: 14px;
+}
